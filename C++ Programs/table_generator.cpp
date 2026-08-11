@@ -10,7 +10,7 @@ int main(){
     cin>>j;
 
     for(int i = 1; i<=10; i++){
-        cout<<j<< "*" <<i<< "=" <<j*i<<endl;
+        cout<<j<< "X" <<i<< "=" <<j*i<<endl;
     }
 
 return 0;
