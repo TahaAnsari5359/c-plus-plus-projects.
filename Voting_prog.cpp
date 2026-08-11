@@ -9,11 +9,11 @@ int main(){
     cin>>age;
     
     if (age < 18 and age > 1){
-        cout<<"Sorry You Cannot Vote";
+        cout<<"Sorry You Cannot Vote"<<endl;
         
     }
     else if (age < 1){
-        cout<<"InValid Age";
+        cout<<"InValid Age"<<endl;
         
     }
     else{
